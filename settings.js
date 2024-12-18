@@ -290,6 +290,15 @@ export const registerSettings = function () {
 		type: Boolean,
 	});
 
+	game.settings.register(modulename, "open-actors-outside", {
+		name: i18n("MonksEnhancedJournal.open-actors-outside.name"),
+		hint: i18n("MonksEnhancedJournal.open-actors-outside.hint"),
+		scope: "world",
+		config: true,
+		default: true,
+		type: Boolean,
+	});
+
 	game.settings.register(modulename, "show-folder-sort", {
 		name: i18n("MonksEnhancedJournal.show-folder-sort.name"),
 		hint: i18n("MonksEnhancedJournal.show-folder-sort.hint"),

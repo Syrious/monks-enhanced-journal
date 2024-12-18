@@ -739,7 +739,7 @@ export class MonksEnhancedJournal {
         }
         */
         Actor.prototype._onClickDocumentLink = function (event) {
-            if (event.altKey || setting('open-outside') || !MonksEnhancedJournal.openJournalEntry(this, { newtab: event.ctrlKey && !setting("open-new-tab") })) {
+            if (event.altKey || setting('open-outside') || setting('open-actors-outside') || !MonksEnhancedJournal.openJournalEntry(this, { newtab: event.ctrlKey && !setting("open-new-tab") })) {
                 return this.sheet.render(true);
             }
         }
