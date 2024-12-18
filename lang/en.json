@@ -20,6 +20,8 @@
   "MonksEnhancedJournal.use-objectives.hint": "Add Objectives to Quests entries",
   "MonksEnhancedJournal.open-outside.name": "Open Links",
   "MonksEnhancedJournal.open-outside.hint": "Open Links outside of Enhanced Journal instead of a new tab",
+  "MonksEnhancedJournal.open-actors-outside.name": "Open Actors",
+  "MonksEnhancedJournal.open-actors-outside.hint": "Open Actors outside of Enhanced Journal instead of a new tab",
   "MonksEnhancedJournal.show-folder-sort.name": "Show Folder Sorting",
   "MonksEnhancedJournal.show-folder-sort.hint": "Show an outlined image if your folder is sorted manually",
   "MonksEnhancedJournal.show-zero-quantity.name": "Show Zero Quantity",

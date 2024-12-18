@@ -20,6 +20,8 @@
   "MonksEnhancedJournal.use-objectives.hint": "Füge Ziele zu Questeinträgen hinzu",
   "MonksEnhancedJournal.open-outside.name": "Öffne Chat-Links",
   "MonksEnhancedJournal.open-outside.hint": "Öffne Chat-Links außerhalb von Enhanced Journal, anstatt einem neuem Tab",
+  "MonksEnhancedJournal.open-actors-outside.name": "Öffne Akteur-Links",
+  "MonksEnhancedJournal.open-actors-outside.hint": "Öffne Akteur-Links außerhalb von Enhanced Journal, anstatt einem neuem Tab",
   "MonksEnhancedJournal.show-folder-sort.name": "Zeige Ordnersortierung an",
   "MonksEnhancedJournal.show-folder-sort.hint": "Zeige ein umrissenes Bild, wenn Dein Ordner manuell sortiert ist",
   "MonksEnhancedJournal.show-zero-quantity.name": "Zeige 0 Anzahl an.",
