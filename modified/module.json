@@ -95,7 +95,7 @@
     "css/apsjournal.css"
   ],
   "url": "https://github.com/ironmonk88/monks-enhanced-journal",
-  "download": "https://github.com/Syrious/monks-enhanced-journal/blob/modified-main/modified/module.zip",
+  "download": "https://github.com/Syrious/monks-enhanced-journal/releases/download/m1/module.zip",
   "manifest": "https://github.com/Syrious/monks-enhanced-journal/blob/modified-main/modified/module.json",
   "bugs": "https://github.com/ironmonk88/monks-enhanced-journal/issues",
   "id": "monks-enhanced-journal",
