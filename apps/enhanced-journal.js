@@ -24,8 +24,6 @@ export class EnhancedJournal extends Application {
             }
             return tab;
         };
-
-
         this.bookmarks = foundry.utils.duplicate(game.user.getFlag('monks-enhanced-journal', 'bookmarks') || []);
 
         this._tabs;// = new Tabs({ navSelector: ".tabs", contentSelector: ".sheet-body", initial: null, callback: this.tabChange });
